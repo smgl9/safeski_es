@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0E2A47"/>
+  <!-- montaña con la ladera coloreada por la escala de pendientes -->
+  <path d="M60 402 L214 160 L262 228 L310 170 L452 402 Z" fill="#F4F7FB"/>
+  <path d="M214 160 L262 228 L238 262 L196 214 Z" fill="#F5921B"/>
+  <path d="M196 214 L238 262 L214 296 L170 256 Z" fill="#F7DC1E"/>
+  <path d="M310 170 L362 254 L334 280 L290 214 Z" fill="#E3262F"/>
+  <!-- huella de esquís -->
+  <path d="M128 402 C190 340 250 352 300 300 S392 250 420 212" fill="none" stroke="#0E2A47" stroke-width="14" stroke-linecap="round"/>
+</svg>
